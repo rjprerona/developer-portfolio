@@ -53,3 +53,13 @@ h1{
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
 }
+#full-stack-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient( tomato, salmon);
+    border-image-slice: 1;
+}
+#baby-wev-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
